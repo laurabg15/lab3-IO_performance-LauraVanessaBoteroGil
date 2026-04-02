@@ -12,6 +12,7 @@
 | Carga de CPU en Reposo (%) | < 8% |
 
 ---
+Al tener una memoria RAM DE 8GB Modifique el archivo a FILE_SIZE_MB = 8192
 
 ## 2. Resultados del Experimento
 
